@@ -1,4 +1,4 @@
-per testare il servizio di salvataggio c'è bisogno del server MySQL e del comando MysqlDump
+per testare il sistema c'è bisogno del server MySQL e del comando MysqlDump
 
 - istanziare una connessione al server MySQL
 - creare nuovo schema vuoto nominato 'organigrammadb'
